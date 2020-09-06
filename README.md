@@ -1,6 +1,6 @@
 ### Hi there !!! I'm [Rachel Ho !](https://github.com/rachelhox) 👋
 
-Hi, I'm Rachel Ho, a passionate front-end web developer, currently working to become a full-stack developer!
+Hi, I'm Rachel Ho, a passionate front-end web developer, currently working to become a full-stack developer 👩🏻‍💻!
 
 - 🔭 I’m currently working on my project [Forbole Landing Page](https://github.com/forbole/landing-page-v2)
 
