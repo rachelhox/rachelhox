@@ -1,4 +1,4 @@
-### Hi there 👋 I'm [Rachel Ho!](https://github.com/rachelhox) 👋
+### Hi there !!! I'm [Rachel Ho!](https://github.com/rachelhox) 👋
 
 Hi, I'm Rachel Ho, a passionate, self-motivated frontEnd web developer from Hong Kong, currently working to become a full-stack developer!
 
@@ -18,10 +18,11 @@ Hi, I'm Rachel Ho, a passionate, self-motivated frontEnd web developer from Hong
 <!-- <code><img height="20" src="https://raw.githubusercontent.com/github/explore/5c058a388828bb5fde0bcafd4bc867b5bb3f26f3/topics/graphql/graphql.png"></code> -->
 
 - ⚡ Fun fact: When I'm working I actually look like this ...
-  <img align="left" alt="Me Coding" src="./assets/tenor.gif" />
+  ![me](https://github.com/rachelhox/rachelhox/blob/master/assets/tenor.gif)
+
+_NOTE: Top languages does not indicate my skill level or something like that, it's a github metric of which languages i have the most code on github, it's a new feature of [github-readme-stats](https://github.com/anuraghazra/github-readme-stats)_
 
 <a href="https://github.com/rachelhox/github-readme-stats">
-  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rachelhox&layout=compact&theme=radical" />
 </a>
 
