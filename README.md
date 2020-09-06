@@ -13,7 +13,7 @@ Hi, I'm Rachel Ho, a passionate front-end web developer, currently working to be
 - 📫 How to reach me: [@zadpoke](https://twitter.com/zadpoke)
 
 - ⚡ Fun fact: When I'm working I actually look like this ...
-  ![me](https://github.com/rachelhox/rachelhox/blob/master/assets/tenor.gif)
+  <img src="https://github.com/rachelhox/rachelhox/blob/master/assets/tenor.gif" width="250" height="250"/>
 
 ## **Languages and Tools:**
 
