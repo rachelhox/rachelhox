@@ -15,7 +15,7 @@ Hi, I'm Rachel Ho, a passionate front-end web developer, currently working to be
 - ⚡ Fun fact: When I'm working I actually look like this ...
   ![me](https://github.com/rachelhox/rachelhox/blob/master/assets/tenor.gif)
 
-#### **Languages and Tools:**
+### **Languages and Tools:**
 
 ---
 
