@@ -17,25 +17,13 @@ Hi, I'm Rachel Ho, a passionate, self-motivated frontEnd web developer from Hong
 
 <!-- <code><img height="20" src="https://raw.githubusercontent.com/github/explore/5c058a388828bb5fde0bcafd4bc867b5bb3f26f3/topics/graphql/graphql.png"></code> -->
 
-- ⚡ Fun fact: When I'm working I usually look like this ...
-  <img align="left" alt="Me Coding" src="assets/tenor.gif" />
+- ⚡ Fun fact: When I'm working I actually look like this ...
+  <img align="left" alt="Me Coding" src="./assets/tenor.gif" />
 
 <a href="https://github.com/rachelhox/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.rachelhox.vercel.app/api?username=rachelhox&show_icons=true&include_all_commits=true&theme=radical" alt="Rachel's github stats" />
-</a>
-<a href="https://github.com/anuraghazra/github-readme-stats">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rachelhox&layout=compact&theme=radical" />
 </a>
-
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=rachelhox&repo=github-readme-stats&theme=radical" />
-</a>    
-<!-- <a href="https://github.com/anuraghazra/anuraghazra.github.io">
-  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=rachelhox&repo=anuraghazra.github.io&theme=radical" />
-</a> -->
 
 <!--
 **rachelhox/rachelhox** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
