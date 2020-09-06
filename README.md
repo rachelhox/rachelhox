@@ -1,12 +1,14 @@
-### Hi there !!! I'm [Rachel Ho!](https://github.com/rachelhox) 👋
+### Hi there !!! I'm [Rachel Ho]!(https://github.com/rachelhox) 👋
 
-Hi, I'm Rachel Ho, a passionate, self-motivated frontEnd web developer from Hong Kong, currently working to become a full-stack developer!
+Hi, I'm Rachel Ho, a passionate front-end web developer, currently working to become a full-stack developer!
 
-- 🔭 I’m currently working on my project [Forbole Landing Page](https://github.com/forbole/landing-page-v2)
+- 🔭&nbsp;I’m currently working on my project [Forbole Landing Page](https://github.com/forbole/landing-page-v2)
 
-- 🌱 I’m currently learning Typescript & back-end developement!
+- 🌱&nbsp;I’m currently learning Typescript & back-end developement!
 
-- 💬 Ask me about anything [here](https://github.com/rachelhox/rachelhox/issues)
+- 💬&nbsp;Ask me about anything [here](https://github.com/rachelhox/rachelhox/issues)
+
+- 😄&nbsp;Pronouns: She/her
 
 **Languages and Tools:**
 
