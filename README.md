@@ -1,4 +1,4 @@
-### Hi there !!! I'm [Rachel Ho !](rachelhox.github.io/about-me/) 👋
+### Hi there !!! I'm [Rachel Ho !](https://rachelhox.github.io/about-me/) 👋
 
 Hi, I'm Rachel Ho, a passionate front-end web developer, currently working to become a full-stack developer 👩🏻‍💻!
 
