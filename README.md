@@ -2,7 +2,7 @@
 
 Hi, I'm Rachel Ho, a passionate front-end developer, currently working to become a full-stack developer 👩🏻‍💻!
 
-- 🔭 I’m currently working on my project [Forbole Landing Page](https://github.com/forbole/landing-page-v2)
+- 🔭 I’m currently working on my project [Forbole Landing Page](https://github.com/forbole/landing-page-v2)! Check out the [website](https://www.forbole.com/)!
 
 - 🌱 I’m currently learning Typescript & back-end developement!
 
