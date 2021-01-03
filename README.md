@@ -1,10 +1,10 @@
 ### Hi there !!! I'm [Rachel Ho !](https://rachelhox.github.io/About-Me/) 👋
 
-Hi, I'm Rachel Ho, a passionate front-end developer, currently working to become a full-stack developer 👩🏻‍💻!
+Hi, I'm Rachel Ho, a passionate software developer 👩🏻‍💻!
 
 - 🔭 I’m currently working on my project [Forbole Landing Page](https://github.com/forbole/landing-page-v2)! Check out the [website](https://www.forbole.com/)!
 
-- 🌱 I’m currently learning Typescript & back-end developement!
+- 🌱 I’m currently learning Typescript & Flutter!
 
 - 💬 Ask me about anything [here](https://github.com/rachelhox/rachelhox/issues)
 
