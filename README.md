@@ -29,7 +29,7 @@ Hi, I'm Rachel Ho, a passionate software developer 👩🏻‍💻!
 <!-- ![Rachel's github stats](https://github-readme-stats.vercel.app/api?username=rachelhox&show_icons=true) -->
 <p align="center">
   <a href="https://github.com/rachelhox/github-readme-stats">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rachelhox&layout=compact" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rachelhox&layout=compact&langs_count=8" />
   </a>
 </p>
 
