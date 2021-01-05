@@ -2,9 +2,9 @@
 
 Hi, I'm Rachel Ho, a passionate software developer 👩🏻‍💻!
 
-- 🔭 I’m currently working on my project [Forbole Landing Page](https://github.com/forbole/landing-page-v2)! Check out the [website](https://www.forbole.com/)!
+- 🔭 I’m currently working on my project [Forbole Official Website](https://github.com/forbole/official-website)! Check out the [website](https://www.forbole.com/)!
 
-- 🌱 I’m currently learning Typescript & Flutter!
+- 🌱 I’m currently learning Typescript!
 
 - 💬 Ask me about anything [here](https://github.com/rachelhox/rachelhox/issues)
 
