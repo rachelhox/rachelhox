@@ -1,10 +1,10 @@
 ### Hi there !!! I'm [Rachel Ho !](https://rachelhox.github.io/About-Me/) 👋
 
-Hi, I'm Rachel Ho, a passionate software developer 👩🏻‍💻!
+Hi, I'm Rachel Ho, a passionate software engineer 👩🏻‍💻!
 
 - 🔭 I’m currently working on my project [Forbole Official Website](https://github.com/forbole/official-website)! Check out the [website](https://www.forbole.com/)!
 
-- 🌱 I’m currently learning Typescript!
+- 🌱 I’m currently learning Typescript and Vim !
 
 - 💬 Ask me about anything [here](https://github.com/rachelhox/rachelhox/issues)
 
