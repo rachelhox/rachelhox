@@ -27,7 +27,7 @@ Hi, I'm Rachel Ho, a passionate software engineer 👩🏻‍💻!
 ###### _NOTE: Top languages does not indicate my skill level or something like that, it's a github metric of which languages i have the most code on github, it's a new feature of [github-readme-stats](https://github.com/anuraghazra/github-readme-stats)_
 
 <!-- ![Rachel's github stats](https://github-readme-stats.vercel.app/api?username=rachelhox&show_icons=true) -->
-<p align="center">
+<p align="left">
   <a href="https://github.com/rachelhox/github-readme-stats">
     <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rachelhox&hide=html&layout=compact&langs_count=8" />
   </a>
