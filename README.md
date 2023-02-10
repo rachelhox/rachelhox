@@ -1,20 +1,3 @@
-### Hi there !!! I'm [Rachel Ho !](https://rachelhox.github.io/About-Me/) 👋
-
-Hi, I'm Rachel Ho, a passionate software engineer 👩🏻‍💻!
-
-- 🔭 I’m currently working on my project [Forbole Official Website](https://github.com/forbole/official-website)! Check out the [website](https://www.forbole.com/)!
-
-- 🌱 I’m currently learning Typescript and Vim !
-
-- 💬 Ask me about anything [here](https://github.com/rachelhox/rachelhox/issues)
-
-- 😄 Pronouns: She/her
-
-- 📫 How to reach me: [@zadpoke](https://twitter.com/zadpoke)
-
-- ⚡ Fun fact: When I'm working I actually look like this ...\
-  <img src="https://github.com/rachelhox/rachelhox/blob/master/assets/tenor.gif" width="350"/>
-
 ## **Languages and Tools:**
 
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
